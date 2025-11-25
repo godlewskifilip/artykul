@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.9.25)  25 NOV 2025 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.9.25)  25 NOV 2025 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,19 +6,20 @@ entering extended mode
 (./main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
-\c@section=\count197
-\c@subsection=\count198
-\c@subsubsection=\count199
-\c@paragraph=\count266
-\c@subparagraph=\count267
-\c@figure=\count268
-\c@table=\count269
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
@@ -561,9 +562,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count270
-\Gm@cntv=\count271
-\c@Gm@tempcnt=\count272
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
 \Gm@bindingoffset=\dimen144
 \Gm@wd@mp=\dimen145
 \Gm@odd@mp=\dimen146
@@ -576,14 +577,14 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count273
+\c@tracingmulticols=\count274
 \mult@box=\box52
 \multicol@leftmargin=\dimen152
-\c@unbalance=\count274
-\c@collectmore=\count275
-\doublecol@number=\count276
-\multicoltolerance=\count277
-\multicolpretolerance=\count278
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
 \full@width=\dimen153
 \page@free=\dimen154
 \premulticols=\dimen155
@@ -634,15 +635,15 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\c@minrows=\count279
-\c@columnbadness=\count280
-\c@finalcolumnbadness=\count281
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
 \last@try=\dimen158
 \multicolovershoot=\dimen159
 \multicolundershoot=\dimen160
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
-\mc@col@check@num=\count282
+\mc@col@check@num=\count283
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
@@ -650,12 +651,12 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@outerparindent=\dimen161
 \enit@toks=\toks21
 \enit@inbox=\box98
-\enit@count@id=\count283
-\enitdp@description=\count284
+\enit@count@id=\count284
+\enitdp@description=\count285
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
+\l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box99
 )
 (./main.aux)
@@ -679,16 +680,16 @@ LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
+\scratchcounter=\count287
 \scratchdimen=\dimen162
 \scratchbox=\box100
-\nofMPsegments=\count287
-\nofMParguments=\count288
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count289
+\MPscratchCnt=\count290
 \MPscratchDim=\dimen163
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -756,35 +757,70 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <10> on input line 27.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 27.
- (./main.toc
+
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
+st/fonts/enc/dvips/pl/plrm.enc}]
+
+[1] (./main.toc
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 6.
+(Font)              <12> on input line 1.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 1.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 1.
 )
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
+ (./rozdzial1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT4/cmr/bx/n/17.28 Wprowadzenie do
+ []
 
-(./rozdzial1.tex) (./rozdzial2.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT4/cmr/bx/n/17.28 tech-no-lo-gii in-for-ma-
+ []
+
+) (./rozdzial2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT4/cmr/bx/n/17.28 sto-so-wa« tech-no-lo-gii
+ []
+
 ! Undefined control sequence.
 l.9 \tightlist
               
 ? 
-[1
+[2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/pl/plrm.enc}]) (./rozdzial3.tex
+]) (./rozdzial3.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 4.
+
+
+Overfull \hbox (932.16652pt too wide) in paragraph at lines 5--13
+[][] 
+ []
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
 ! Undefined control sequence.
 <recently read> \tightlist 
                            
-l.8 \tightlist
-              
+l.19 \tightlist
+               
 ? 
-[2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
-(./rozdzial4.tex
+) (./rozdzial4.tex
 ! Undefined control sequence.
 <recently read> \tightlist 
                            
@@ -796,53 +832,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--14
 []\OT4/cmr/m/n/12 edukacja zdal-na i plat-for-my e-
  []
 
+[3{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 ...riaÅ‚y naukowe, m. in. w matematyce: x \in
+                                                   (0; 1) \cup (2; 5)
+? 
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{itemize}
+                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 \end{itemize}
+                  
+? 
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 40.
+
+
+Overfull \hbox (932.16652pt too wide) in paragraph at lines 41--49
+[][] 
+ []
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
 ) (./rozdzial5.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\OT4/cmr/bx/n/17.28 Przyszªo±¢ tech-no-lo-gii
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]\OT4/cmr/bx/n/14.4 Wyzwania tech-no-lo-gicz-ne
- []
-
 ! Undefined control sequence.
 <recently read> \tightlist 
                            
 l.14 \tightlist
                
 ? 
-[3]) (./rozdzial6.tex
-<zdj.jpg, id=18, 856.19875pt x 480.79625pt>
+) (./rozdzial6.tex
+<zdj.jpg, id=19, 856.19875pt x 480.79625pt>
 File: zdj.jpg Graphic file (type jpg)
 <use zdj.jpg>
 Package pdftex.def Info: zdj.jpg  used on input line 3.
 (pdftex.def)             Requested size: 214.04916pt x 120.19876pt.
-)
+) [4{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plms.enc}]
 
-[4 <./zdj.jpg>] (./main.aux)
+[5 <./zdj.jpg>] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2943 strings out of 473197
- 46223 string characters out of 5718605
- 456178 words of memory out of 5000000
- 26141 multiletter control sequences out of 15000+600000
- 570140 words of font info for 64 fonts, out of 8000000 for 9000
+ 2965 strings out of 473197
+ 46518 string characters out of 5718605
+ 460564 words of memory out of 5000000
+ 26163 multiletter control sequences out of 15000+600000
+ 570138 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,187b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/pl/plr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/pl/plr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr17.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (4 pages, 140676 bytes).
+ 57i,8n,65p,267b,395s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/pl/plr12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/pl/plr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/pl/plsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (6 pages, 131220 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
