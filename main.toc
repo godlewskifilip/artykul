@@ -1,7 +1,7 @@
 \contentsline {section}{\numberline {0.1}Wprowadzenie do technologii informacyjnych}{2}{}%
 \contentsline {section}{\numberline {0.2}Kluczowe obszary zastosowań technologii informacyjnych}{2}{}%
 \contentsline {section}{\numberline {0.3}Etapy rozwoju technologii informacyjnych}{3}{}%
-\contentsline {section}{\numberline {0.4}Znaczenie technologii informacyjnych w społeczeństwie}{3}{}%
+\contentsline {section}{\numberline {0.4}Znaczenie technologii informacyjnych w społeczeństwie}{4}{}%
 \contentsline {section}{\numberline {0.5}Przyszłość technologii informacyjnych}{4}{}%
 \contentsline {subsection}{\numberline {0.5.1}Rozwój technologii}{4}{}%
 \contentsline {subsection}{\numberline {0.5.2}Wyzwania technologiczne przyszłości}{4}{}%
